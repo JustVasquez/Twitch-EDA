@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 30 15:52:47 2021
-
-@author: jvasq
-"""
 # https://www.kaggle.com/aayushmishra1512/twitchdata
 
 
